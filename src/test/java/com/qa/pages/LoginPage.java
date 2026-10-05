@@ -2,12 +2,13 @@ package com.qa.pages;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-/*
+
+public class LoginPage {
+    private WebDriver driver;
+    /*
 git check up
 
  */
-public class LoginPage {
-    private WebDriver driver;
 
     // 1. Locators
     private By usernameField = By.id("user-name");
