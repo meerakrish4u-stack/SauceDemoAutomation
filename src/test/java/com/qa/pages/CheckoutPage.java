@@ -1,5 +1,5 @@
 package com.qa.pages;
-
+/* to check git procedure*/
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
